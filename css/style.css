@@ -164,8 +164,13 @@
     color: #A9BA9D;
 }
 
-.contactSection {
+.currentlySection {
 	background-color: #fff;
+	color: #444;
+}
+
+.contactSection {
+	background-color: #A9BA9D;
 	color: #444;
 }
 
@@ -190,21 +195,21 @@
     height: 60px;
     font-size: 80px;
     margin-left: -20%;
-	color: #A9BA9D;
+	color: #fff
 }
 
 .squareContentx h3 {
 	font-size: 15px;
 	margin-bottom: 2px;
 	font-weight: 600;
-	color: #A9BA9D
+	color: #fff
 }
 
 .squareContentx p {
 	font-size: 13px;
 	font-weight: 600;
 	margin: 0;
-	color: #A9BA9D;
+	color: #fff;
 }
 
 #navigation {
